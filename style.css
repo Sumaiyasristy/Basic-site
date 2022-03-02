@@ -1,0 +1,41 @@
+hr{
+   background-color: brown;
+    height: 10%;
+    width: 20%;
+}
+.fas{
+    
+    font-size: 35px;
+   color: darkblue;
+   border: 2px solid saddlebrown;
+   border-radius: 50%;
+   height: 50px;
+   background: seagreen;
+}
+.third{
+    background-color: rosybrown;
+    padding-bottom: 2%;
+}
+.card{
+    background-color: slategrey !important;
+    align-items: center;
+   
+}
+.card:hover{
+    color:white;
+    background:blue !important;
+}
+.card img{
+    border: 3px solid red !important;
+    border-radius: 50%;
+
+}
+
+button{
+    margin-bottom: 3% !important;
+}
+
+footer{
+    background: black;
+    color: blanchedalmond;
+}
